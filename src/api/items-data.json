@@ -1,0 +1,76 @@
+{
+	"data": [
+		{
+			"id": 0,
+			"image": "/images/item-1.png",
+			"name": "Иван",
+			"type": "Иванов",
+			"country": "USA",
+			"broadcastType": "satellite"
+		},
+		{
+			"id": 1,
+			"image": "/images/item-2.png",
+			"name": "Иван",
+			"type": "Иванов",
+			"country": "USA",
+			"broadcastType": "Antenna"
+		},
+		{
+			"id": 2,
+			"image": "/images/item-3.png",
+			"name": "Иван",
+			"type": "Иванов",
+			"country": "USA",
+			"broadcastType": "Antenna"
+		},
+		{
+			"id": 4,
+			"image": "/images/item-5.png",
+			"name": "Иван",
+			"type": "Иванов",
+			"country": "USA",
+			"broadcastType": "Antenna"
+		},
+		{
+			"id": 5,
+			"image": "/images/item-6.png",
+			"name": "Иван",
+			"type": "Иванов",
+			"country": "USA",
+			"broadcastType": "Antenna"
+		},
+		{
+			"id": 7,
+			"image": "/images/item-8.png",
+			"name": "Иван",
+			"type": "Иванов",
+			"country": "USA",
+			"broadcastType": "Antenna"
+		},
+		{
+			"id": 8,
+			"image": "/images/item-1.png",
+			"name": "Иван",
+			"type": "Иванов",
+			"country": "USA",
+			"broadcastType": "Antenna"
+		},
+		{
+			"id": 9,
+			"image": "/images/item-2.png",
+			"name": "Иван",
+			"type": "Иванов",
+			"country": "USA",
+			"broadcastType": "Antenna"
+		},
+		{
+			"id": 10,
+			"image": "/images/item-3.png",
+			"name": "Иван",
+			"type": "Иванов",
+			"country": "USA",
+			"broadcastType": "Antenna"
+		}
+	]
+}
