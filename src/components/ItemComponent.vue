@@ -1,6 +1,6 @@
 <template>
 	<li>
-		<img :src="data.image" alt>
+		<img src="../assets/images/item-1.png" alt>
 		<div class="hover-block"></div>
 	</li>
 </template>
