@@ -144,7 +144,7 @@
 			}
 			.dropdown {
 				position: absolute;
-				top: calc(100% - 3px);
+				top: calc(100% - 5px);
 				width: 100%;
 				z-index: 4;
 				left: 0;

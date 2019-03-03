@@ -83,7 +83,7 @@
 			}
 			.dropdown {
 				position: absolute;
-				top: calc(100% - 3px);
+				top: calc(100% - 5px);
 				width: 100%;
 				z-index: 4;
 				left: 0;
@@ -94,9 +94,9 @@
 			ul {
 				width: 100%;
 				list-style: none;
-				border-radius: 0 0 5px 5px;
 				cursor: pointer;
-				padding: 0;
+				padding: 5px 0 0;
+				margin: 0;
 				overflow: hidden;
 				li {
 					padding: 10px;
