@@ -6,15 +6,18 @@
 			<select2-component :data="filters.country"></select2-component>
 			<radio-component :data="filters.broadcastType"></radio-component>
 			<select-component :data="filters.quality"></select-component>
+			<select-component :data="sorting"></select-component>
 		</div>
 		<main>
-			<ul class="list-items">
-				<ItemComponent v-for="item in shownItems" :key="item.id" :data="item"/>
-			</ul>
+			<draggable v-model="items" @end="saveLocal()">
+				<transition-group tag="ul" class="list-items" type="transition" name="flip-list">
+					<ItemComponent v-for="item in items.slice(0, limitItems)" :key="item.id" :data="item"/>
+				</transition-group>
+			</draggable>
 			<button
 				class="show-more"
 				@click="showMore()"
-				v-if="filteredItems.length > shownItems.length"
+				v-if="filteredItems.length > limitItems"
 			>Показать еще</button>
 			<h2 class="no-items" v-if="!filteredItems.length">Ничего не найдено</h2>
 		</main>
@@ -30,6 +33,7 @@
 	import SelectComponent from "./components/SelectComponent.vue";
 	import Select2Component from "./components/Select2Component.vue";
 	import RadioComponent from "./components/RadioComponent.vue";
+	import draggable from "vuedraggable";
 
 	export default {
 		name: "app",
@@ -38,10 +42,12 @@
 			HeaderComponent,
 			Select2Component,
 			RadioComponent,
-			SelectComponent
+			SelectComponent,
+			draggable
 		},
 		data() {
 			return {
+				items: ItemsData,
 				filters: {
 					type: {
 						name: "Тип:",
@@ -69,8 +75,35 @@
 						options: ["Высокое", "Среднее", "HD"]
 					}
 				},
-				quantityShownItems: 9
+				sorting: {
+					name: "Сортировка:",
+					value: "По умолчанию",
+					options: ["По умолчанию", "Пользовательская", "По алфавиту"]
+				},
+				limitItems: 9
 			};
+		},
+		watch: {
+			filteredItems() {
+				this.limitItems = 9;
+				this.changeItems(this.filteredItems);
+			},
+			sorting: {
+				deep: true,
+				handler(val) {
+					switch (val.value) {
+						case "По алфавиту":
+							this.changeItems(this.alphabetically);
+							break;
+						case "Пользовательская":
+							this.changeItems(this.customSorting());
+							break;
+						default:
+							this.changeItems(this.filteredItems);
+							break;
+					}
+				}
+			}
 		},
 		computed: {
 			filteredItems() {
@@ -85,24 +118,50 @@
 					);
 				});
 			},
-			shownItems() {
-				return this.filteredItems.slice(0, this.quantityShownItems);
-			}
-		},
-		watch: {
-			filteredItems: function() {
-				this.quantityShownItems = 9;
+			alphabetically() {
+				return this.filteredItems.slice().sort((a, b) => {
+					if (a.name < b.name) return -1;
+					if (a.name > b.name) return 1;
+					return 0;
+				});
 			}
 		},
 		methods: {
+			changeItems(payload) {
+				this.items = payload;
+			},
 			showMore() {
-				this.quantityShownItems = this.quantityShownItems + 3;
+				this.limitItems = this.limitItems + 3;
+			},
+			customSorting() {
+				let order = localStorage.itemsIds.split(",").map(function(el) {
+					return { id: el };
+				});
+				let orderObj = order.reduce((a, c, i) => {
+					a[c.id] = i;
+					return a;
+				}, {});
+				return this.filteredItems
+					.slice()
+					.sort((a, b) => orderObj[a.id] - orderObj[b.id]);
+			},
+			saveLocal() {
+				localStorage.itemsIds = this.items.map(element => {
+					return element.id.toString();
+				});
+				this.sorting.value = "Пользовательская";
 			}
+		},
+		created() {
+			this.changeItems(this.filteredItems);
 		}
 	};
 </script>
 
 <style lang="scss">
+	.flip-list-move {
+		transition: transform 0.3s;
+	}
 	.no-items {
 		text-align: center;
 	}
