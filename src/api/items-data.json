@@ -1,212 +1,1802 @@
-{
-	"data": [
-		{
-			"image": "/images/item-1.png",
-			"name": "Иван",
-			"type": "Информационные",
-			"country": "USA",
-			"broadcastType": "satellite",
-			"quality": "Высокое"
-		},
-		{
-			"image": "/images/item-2.png",
-			"name": "Иван",
-			"type": "Общественные",
-			"country": "USA",
-			"broadcastType": "Антенна",
-			"quality": "Высокое"
-		},
-		{
-			"image": "/images/item-3.png",
-			"name": "Иван",
-			"type": "Общественные",
-			"country": "USA",
-			"broadcastType": "Антенна",
-			"quality": "Высокое"
-		},
-		{
-			"image": "/images/item-5.png",
-			"name": "Иван",
-			"type": "Информационные",
-			"country": "USA",
-			"broadcastType": "Антенна",
-			"quality": "Высокое"
-		},
-		{
-			"image": "/images/item-6.png",
-			"name": "Иван",
-			"type": "Информационные",
-			"country": "USA",
-			"broadcastType": "Антенна",
-			"quality": "Высокое"
-		},
-		{
-			"image": "/images/item-8.png",
-			"name": "Иван",
-			"type": "Информационные",
-			"country": "USA",
-			"broadcastType": "Антенна",
-			"quality": "Высокое"
-		},
-		{
-			"image": "/images/item-1.png",
-			"name": "Иван",
-			"type": "Информационные",
-			"country": "USA",
-			"broadcastType": "Антенна",
-			"quality": "HD"
-		},
-		{
-			"image": "/images/item-2.png",
-			"name": "Иван",
-			"type": "Информационные",
-			"country": "USA",
-			"broadcastType": "Антенна",
-			"quality": "HD"
-		},
-		{
-			"image": "/images/item-3.png",
-			"name": "Иван",
-			"type": "Информационные",
-			"country": "USA",
-			"broadcastType": "Антенна",
-			"quality": "HD"
-		},
-		{
-			"image": "/images/item-1.png",
-			"name": "Иван",
-			"type": "Информационные",
-			"country": "USA",
-			"broadcastType": "satellite",
-			"quality": "Высокое"
-		},
-		{
-			"image": "/images/item-2.png",
-			"name": "Иван",
-			"type": "Общественные",
-			"country": "USA",
-			"broadcastType": "Антенна",
-			"quality": "Высокое"
-		},
-		{
-			"image": "/images/item-3.png",
-			"name": "Иван",
-			"type": "Общественные",
-			"country": "USA",
-			"broadcastType": "Антенна",
-			"quality": "Высокое"
-		},
-		{
-			"image": "/images/item-5.png",
-			"name": "Иван",
-			"type": "Информационные",
-			"country": "USA",
-			"broadcastType": "Антенна",
-			"quality": "Среднее"
-		},
-		{
-			"image": "/images/item-6.png",
-			"name": "Иван",
-			"type": "Информационные",
-			"country": "USA",
-			"broadcastType": "Антенна",
-			"quality": "Среднее"
-		},
-		{
-			"image": "/images/item-8.png",
-			"name": "Иван",
-			"type": "Информационные",
-			"country": "USA",
-			"broadcastType": "Антенна",
-			"quality": "Среднее"
-		},
-		{
-			"image": "/images/item-1.png",
-			"name": "Иван",
-			"type": "Информационные",
-			"country": "USA",
-			"broadcastType": "Cпутник",
-			"quality": "HD"
-		},
-		{
-			"image": "/images/item-2.png",
-			"name": "Иван",
-			"type": "Информационные",
-			"country": "USA",
-			"broadcastType": "Cпутник",
-			"quality": "HD"
-		},
-		{
-			"image": "/images/item-1.png",
-			"name": "Иван",
-			"type": "Информационные",
-			"country": "USA",
-			"broadcastType": "satellite",
-			"quality": "Высокое"
-		},
-		{
-			"image": "/images/item-2.png",
-			"name": "Иван",
-			"type": "Общественные",
-			"country": "USA",
-			"broadcastType": "Cпутник",
-			"quality": "Высокое"
-		},
-		{
-			"image": "/images/item-3.png",
-			"name": "Иван",
-			"type": "Общественные",
-			"country": "USA",
-			"broadcastType": "Cпутник",
-			"quality": "Среднее"
-		},
-		{
-			"image": "/images/item-5.png",
-			"name": "Иван",
-			"type": "Информационные",
-			"country": "USA",
-			"broadcastType": "Cпутник",
-			"quality": "Среднее"
-		},
-		{
-			"image": "/images/item-6.png",
-			"name": "Иван",
-			"type": "Информационные",
-			"country": "USA",
-			"broadcastType": "Cпутник",
-			"quality": "Среднее"
-		},
-		{
-			"image": "/images/item-8.png",
-			"name": "Иван",
-			"type": "Информационные",
-			"country": "USA",
-			"broadcastType": "Cпутник",
-			"quality": "Среднее"
-		},
-		{
-			"image": "/images/item-1.png",
-			"name": "Иван",
-			"type": "Информационные",
-			"country": "USA",
-			"broadcastType": "Cпутник",
-			"quality": "HD"
-		},
-		{
-			"image": "/images/item-2.png",
-			"name": "Иван",
-			"type": "Информационные",
-			"country": "USA",
-			"broadcastType": "Cпутник",
-			"quality": "HD"
-		},
-		{
-			"image": "/images/item-3.png",
-			"name": "Иван",
-			"type": "Информационные",
-			"country": "USA",
-			"broadcastType": "Антенна",
-			"quality": "HD"
-		}
-	]
-}
+[
+  {
+    "id": "5c7bc50002252795d3a782e7",
+    "image": "./images/item-6.png",
+    "name": "Randall",
+    "type": "Информационные",
+    "country": "S. Georgia and S. Sandwich Isls.",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc50001224b7944aa1795",
+    "image": "./images/item-2.png",
+    "name": "Villarreal",
+    "type": "Общественные",
+    "country": "Aruba",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500c3bb0c1339b5b467",
+    "image": "./images/item-7.png",
+    "name": "Rios",
+    "type": "Общественные",
+    "country": "Saint Lucia",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500a7573b44b5c2720c",
+    "image": "./images/item-6.png",
+    "name": "Mason",
+    "type": "Общественные",
+    "country": "Greenland",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500df7a7331cd5fb512",
+    "image": "./images/item-4.png",
+    "name": "Flowers",
+    "type": "Развлекательные",
+    "country": "Morocco",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500b8f262e667aa5e69",
+    "image": "./images/item-4.png",
+    "name": "Guerrero",
+    "type": "Общественные",
+    "country": "Togo",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500e273cc28960c99dd",
+    "image": "./images/item-3.png",
+    "name": "Spears",
+    "type": "Информационные",
+    "country": "Congo",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5009f63018b1a934787",
+    "image": "./images/item-2.png",
+    "name": "Romero",
+    "type": "Развлекательные",
+    "country": "Norway",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5002ff4154c912d8783",
+    "image": "./images/item-9.png",
+    "name": "Harrell",
+    "type": "Информационные",
+    "country": "Tanzania",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500b47dc9a92c4411ea",
+    "image": "./images/item-4.png",
+    "name": "Cole",
+    "type": "Информационные",
+    "country": "Turks and Caicos Islands",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc50068dfa49ec07a238b",
+    "image": "./images/item-9.png",
+    "name": "Beasley",
+    "type": "Развлекательные",
+    "country": "Argentina",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5004d49f9e448d2ab72",
+    "image": "./images/item-9.png",
+    "name": "Young",
+    "type": "Общественные",
+    "country": "Cuba",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500e314595eec66ea22",
+    "image": "./images/item-6.png",
+    "name": "Osborn",
+    "type": "Развлекательные",
+    "country": "Ireland",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500b6d6f360b2a22617",
+    "image": "./images/item-3.png",
+    "name": "Chase",
+    "type": "Общественные",
+    "country": "British Indian Ocean Territory",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5003a96bfe8a090b393",
+    "image": "./images/item-3.png",
+    "name": "Mcleod",
+    "type": "Общественные",
+    "country": "Ukraine",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500825860b5f1339420",
+    "image": "./images/item-3.png",
+    "name": "Reid",
+    "type": "Развлекательные",
+    "country": "Sudan",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5003739568a98486644",
+    "image": "./images/item-8.png",
+    "name": "Fletcher",
+    "type": "Развлекательные",
+    "country": "Egypt",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500f2486a266190bb7d",
+    "image": "./images/item-7.png",
+    "name": "Ewing",
+    "type": "Общественные",
+    "country": "Guyana",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500ffbeca5a1272a16d",
+    "image": "./images/item-8.png",
+    "name": "Douglas",
+    "type": "Развлекательные",
+    "country": "Armenia",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5009186b4ddc28a766e",
+    "image": "./images/item-5.png",
+    "name": "Reynolds",
+    "type": "Развлекательные",
+    "country": "Mozambique",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc50032939e52a4c837a7",
+    "image": "./images/item-2.png",
+    "name": "Williamson",
+    "type": "Информационные",
+    "country": "Netherlands Antilles",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500c2ea74527c014c65",
+    "image": "./images/item-3.png",
+    "name": "Rojas",
+    "type": "Развлекательные",
+    "country": "Taiwan",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5009d81cc206a84fc21",
+    "image": "./images/item-2.png",
+    "name": "Cooper",
+    "type": "Развлекательные",
+    "country": "Chad",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500fd37a46b7461d67c",
+    "image": "./images/item-1.png",
+    "name": "Horn",
+    "type": "Общественные",
+    "country": "Heard and McDonald Islands",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc50041213e03ca5671ff",
+    "image": "./images/item-1.png",
+    "name": "Harrison",
+    "type": "Информационные",
+    "country": "Tajikistan",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc50085bd1297aa959489",
+    "image": "./images/item-2.png",
+    "name": "Huber",
+    "type": "Информационные",
+    "country": "Vanuatu",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5000f433dd2551eb328",
+    "image": "./images/item-8.png",
+    "name": "Shaffer",
+    "type": "Развлекательные",
+    "country": "Cook Islands",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500961683627c55319d",
+    "image": "./images/item-8.png",
+    "name": "Ray",
+    "type": "Общественные",
+    "country": "Kiribati",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc50084a36721623fc932",
+    "image": "./images/item-5.png",
+    "name": "Aguilar",
+    "type": "Информационные",
+    "country": "New Caledonia",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5000904a31fd19f8071",
+    "image": "./images/item-3.png",
+    "name": "Owen",
+    "type": "Развлекательные",
+    "country": "Panama",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5000c2b248aab129225",
+    "image": "./images/item-7.png",
+    "name": "Lowery",
+    "type": "Общественные",
+    "country": "Turkmenistan",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5001a087aacd5cee32d",
+    "image": "./images/item-2.png",
+    "name": "Frye",
+    "type": "Общественные",
+    "country": "French Guiana",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500fa4dd6bf7a752f79",
+    "image": "./images/item-7.png",
+    "name": "Jensen",
+    "type": "Развлекательные",
+    "country": "United States",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5005b80ccc69f7852a2",
+    "image": "./images/item-6.png",
+    "name": "Reilly",
+    "type": "Информационные",
+    "country": "Rwanda",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5005fcf880ba7b98c53",
+    "image": "./images/item-6.png",
+    "name": "Garrett",
+    "type": "Развлекательные",
+    "country": "Malta",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5009266007c1988d30f",
+    "image": "./images/item-2.png",
+    "name": "Mullins",
+    "type": "Информационные",
+    "country": "Svalbard and Jan Mayen Islands",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5008aa72dea0d8f5228",
+    "image": "./images/item-7.png",
+    "name": "King",
+    "type": "Общественные",
+    "country": "St. Helena",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc50012d01a475c13f371",
+    "image": "./images/item-6.png",
+    "name": "Sampson",
+    "type": "Информационные",
+    "country": "France",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5004e77f8c0a9745d82",
+    "image": "./images/item-2.png",
+    "name": "Gill",
+    "type": "Общественные",
+    "country": "Reunion",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc50039a53e9f6cff87fd",
+    "image": "./images/item-6.png",
+    "name": "Espinoza",
+    "type": "Информационные",
+    "country": "Nicaragua",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5001594a70f07426ca7",
+    "image": "./images/item-6.png",
+    "name": "Mcclure",
+    "type": "Развлекательные",
+    "country": "Barbados",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500dfb8020050d20dac",
+    "image": "./images/item-9.png",
+    "name": "Weeks",
+    "type": "Информационные",
+    "country": "Niger",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5001b92b0948f4783f4",
+    "image": "./images/item-8.png",
+    "name": "Harris",
+    "type": "Общественные",
+    "country": "Azerbaijan",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5008f9eac4fb5d2a718",
+    "image": "./images/item-4.png",
+    "name": "Whitfield",
+    "type": "Развлекательные",
+    "country": "United Arab Emirates",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500676889efef6b61b8",
+    "image": "./images/item-6.png",
+    "name": "Nelson",
+    "type": "Общественные",
+    "country": "Myanmar",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5004820a34e08aa0af3",
+    "image": "./images/item-3.png",
+    "name": "Perkins",
+    "type": "Развлекательные",
+    "country": "Qatar",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5003c9348ed83162c23",
+    "image": "./images/item-6.png",
+    "name": "Farrell",
+    "type": "Развлекательные",
+    "country": "Ecuador",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500c98dd89c934421d6",
+    "image": "./images/item-7.png",
+    "name": "Arnold",
+    "type": "Развлекательные",
+    "country": "Tokelau",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500a7e6e9dc81b4cf3e",
+    "image": "./images/item-8.png",
+    "name": "Gibbs",
+    "type": "Общественные",
+    "country": "Papua New Guinea",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500f885de77131bbbbe",
+    "image": "./images/item-1.png",
+    "name": "Curtis",
+    "type": "Развлекательные",
+    "country": "Montserrat",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5007328c3ecd4c4e2de",
+    "image": "./images/item-2.png",
+    "name": "Grant",
+    "type": "Общественные",
+    "country": "French Polynesia",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500efdedd853a925876",
+    "image": "./images/item-9.png",
+    "name": "Schmidt",
+    "type": "Общественные",
+    "country": "Moldova",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500e95091379a7fc40c",
+    "image": "./images/item-5.png",
+    "name": "Stafford",
+    "type": "Общественные",
+    "country": "Canada",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500bac0571f245c0c0f",
+    "image": "./images/item-3.png",
+    "name": "Knight",
+    "type": "Общественные",
+    "country": "Bulgaria",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500cacaba101e428fec",
+    "image": "./images/item-6.png",
+    "name": "Heath",
+    "type": "Общественные",
+    "country": "Saudi Arabia",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500a6c11ec0cf86ff4c",
+    "image": "./images/item-1.png",
+    "name": "Deleon",
+    "type": "Общественные",
+    "country": "Brunei Darussalam",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5008301c90a98569dbd",
+    "image": "./images/item-3.png",
+    "name": "Norman",
+    "type": "Развлекательные",
+    "country": "Austria",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5006f7701e339a539f7",
+    "image": "./images/item-1.png",
+    "name": "Albert",
+    "type": "Общественные",
+    "country": "Lithuania",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5002343ef771861ebac",
+    "image": "./images/item-3.png",
+    "name": "Monroe",
+    "type": "Информационные",
+    "country": "Japan",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc50066c63d3a6d12bf85",
+    "image": "./images/item-2.png",
+    "name": "Anderson",
+    "type": "Общественные",
+    "country": "Suriname",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5005fc92a28a69c495a",
+    "image": "./images/item-3.png",
+    "name": "Dawson",
+    "type": "Развлекательные",
+    "country": "Kazakhstan",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500f7331fa9cdc13e78",
+    "image": "./images/item-2.png",
+    "name": "Carter",
+    "type": "Информационные",
+    "country": "Nigeria",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5000a9d90bd730159f1",
+    "image": "./images/item-6.png",
+    "name": "Hendricks",
+    "type": "Общественные",
+    "country": "Russian Federation",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5003da457682453a587",
+    "image": "./images/item-4.png",
+    "name": "Dodson",
+    "type": "Общественные",
+    "country": "Brazil",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500eb898afacb75653f",
+    "image": "./images/item-9.png",
+    "name": "Mcguire",
+    "type": "Общественные",
+    "country": "Mayotte",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5004df31c3a83799362",
+    "image": "./images/item-9.png",
+    "name": "Spencer",
+    "type": "Информационные",
+    "country": "Zambia",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5000bcc9b6797587998",
+    "image": "./images/item-4.png",
+    "name": "Durham",
+    "type": "Общественные",
+    "country": "Venezuela",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500e42526c2f8222e8a",
+    "image": "./images/item-7.png",
+    "name": "Cross",
+    "type": "Общественные",
+    "country": "Luxembourg",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5000f51763313d0398d",
+    "image": "./images/item-1.png",
+    "name": "Leon",
+    "type": "Информационные",
+    "country": "Andorra",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc50008d9444ea8c31dbf",
+    "image": "./images/item-9.png",
+    "name": "Garrison",
+    "type": "Информационные",
+    "country": "Italy",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500a29f0fa6affb8d9b",
+    "image": "./images/item-4.png",
+    "name": "York",
+    "type": "Общественные",
+    "country": "Sweden",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc50050eb621d217459a5",
+    "image": "./images/item-4.png",
+    "name": "Ayers",
+    "type": "Развлекательные",
+    "country": "Slovak Republic",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500772624cb9b38a745",
+    "image": "./images/item-6.png",
+    "name": "Decker",
+    "type": "Развлекательные",
+    "country": "Northern Mariana Islands",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5009a575f24d94a8fd4",
+    "image": "./images/item-2.png",
+    "name": "Mayo",
+    "type": "Информационные",
+    "country": "Portugal",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500f20bd95e493d02bf",
+    "image": "./images/item-3.png",
+    "name": "Stanley",
+    "type": "Информационные",
+    "country": "Oman",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500795fe886d779687c",
+    "image": "./images/item-3.png",
+    "name": "Walker",
+    "type": "Общественные",
+    "country": "Costa Rica",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5002a82dd16f5e2c4d1",
+    "image": "./images/item-9.png",
+    "name": "Graham",
+    "type": "Развлекательные",
+    "country": "Israel",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500adb33450aac33a10",
+    "image": "./images/item-1.png",
+    "name": "Ferrell",
+    "type": "Общественные",
+    "country": "Mauritania",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5001054c2225ae0f4a4",
+    "image": "./images/item-1.png",
+    "name": "Jenkins",
+    "type": "Развлекательные",
+    "country": "Madagascar",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc50041aacf30ba7f3834",
+    "image": "./images/item-3.png",
+    "name": "Crosby",
+    "type": "Информационные",
+    "country": "Lesotho",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500fb1a73d12bd8a830",
+    "image": "./images/item-6.png",
+    "name": "Pearson",
+    "type": "Развлекательные",
+    "country": "Bermuda",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500e2bf593ceedac525",
+    "image": "./images/item-8.png",
+    "name": "Schroeder",
+    "type": "Развлекательные",
+    "country": "India",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500c408a6e4fd0abf6e",
+    "image": "./images/item-3.png",
+    "name": "Suarez",
+    "type": "Информационные",
+    "country": "Algeria",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500384eff984322f255",
+    "image": "./images/item-3.png",
+    "name": "Hood",
+    "type": "Развлекательные",
+    "country": "Guinea-Bissau",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc50010ae27bff1a14bf1",
+    "image": "./images/item-1.png",
+    "name": "Adkins",
+    "type": "Общественные",
+    "country": "Cape Verde",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5004a7bcf0ab225c6ce",
+    "image": "./images/item-9.png",
+    "name": "Gilliam",
+    "type": "Общественные",
+    "country": "Indonesia",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5009662551353df2e81",
+    "image": "./images/item-3.png",
+    "name": "Baxter",
+    "type": "Развлекательные",
+    "country": "Afghanistan",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc50078b8d44c5af3f338",
+    "image": "./images/item-8.png",
+    "name": "Ryan",
+    "type": "Информационные",
+    "country": "Korea (North)",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc50025493d4bab2922b1",
+    "image": "./images/item-4.png",
+    "name": "Melendez",
+    "type": "Общественные",
+    "country": "Kuwait",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc50018dd1569d0ee58cb",
+    "image": "./images/item-6.png",
+    "name": "Travis",
+    "type": "Информационные",
+    "country": "Thailand",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5000f8b24af1a475864",
+    "image": "./images/item-8.png",
+    "name": "Vega",
+    "type": "Информационные",
+    "country": "Central African Republic",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5002f6bcc8d825b6b21",
+    "image": "./images/item-8.png",
+    "name": "Stevens",
+    "type": "Информационные",
+    "country": "United Kingdom",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5002ccee34027949b12",
+    "image": "./images/item-1.png",
+    "name": "House",
+    "type": "Информационные",
+    "country": "Benin",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc50069556b49fc01ef7d",
+    "image": "./images/item-1.png",
+    "name": "Glover",
+    "type": "Информационные",
+    "country": "Virgin Islands (British)",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500b9d23ff711a3a0bb",
+    "image": "./images/item-9.png",
+    "name": "Payne",
+    "type": "Общественные",
+    "country": "Tuvalu",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5001d9a27d49f1c1293",
+    "image": "./images/item-2.png",
+    "name": "Doyle",
+    "type": "Информационные",
+    "country": "Equatorial Guinea",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500d88c967bf21d57df",
+    "image": "./images/item-1.png",
+    "name": "Baird",
+    "type": "Информационные",
+    "country": "Liberia",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc50027bf0b6b9a29e666",
+    "image": "./images/item-8.png",
+    "name": "Murphy",
+    "type": "Общественные",
+    "country": "Germany",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc50030fc1fae3c837cae",
+    "image": "./images/item-7.png",
+    "name": "Hudson",
+    "type": "Развлекательные",
+    "country": "Seychelles",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc50078cefb2e417a69cc",
+    "image": "./images/item-7.png",
+    "name": "Barrera",
+    "type": "Информационные",
+    "country": "Guatemala",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500b598247b95624ca6",
+    "image": "./images/item-1.png",
+    "name": "Pitts",
+    "type": "Развлекательные",
+    "country": "Antigua and Barbuda",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500308f2839d4d97fd8",
+    "image": "./images/item-8.png",
+    "name": "Meyers",
+    "type": "Развлекательные",
+    "country": "Switzerland",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc50068935b1bd6391892",
+    "image": "./images/item-6.png",
+    "name": "Myers",
+    "type": "Развлекательные",
+    "country": "Bosnia and Herzegovina",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500ca13bc063da4d555",
+    "image": "./images/item-5.png",
+    "name": "Solis",
+    "type": "Информационные",
+    "country": "Pitcairn",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc50052481d6f050c2e7f",
+    "image": "./images/item-7.png",
+    "name": "Mann",
+    "type": "Информационные",
+    "country": "Vatican City State (Holy See)",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500b03c951867809b27",
+    "image": "./images/item-2.png",
+    "name": "Dennis",
+    "type": "Развлекательные",
+    "country": "Finland",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5000dfee183f7c5dba0",
+    "image": "./images/item-4.png",
+    "name": "Lawrence",
+    "type": "Общественные",
+    "country": "Zimbabwe",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500fcdc3108c17ebc7e",
+    "image": "./images/item-6.png",
+    "name": "Murray",
+    "type": "Развлекательные",
+    "country": "Eritrea",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5009664e6e0ab2f5a13",
+    "image": "./images/item-8.png",
+    "name": "Snyder",
+    "type": "Развлекательные",
+    "country": "Dominica",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500c36857609a90d029",
+    "image": "./images/item-5.png",
+    "name": "Beard",
+    "type": "Развлекательные",
+    "country": "Lebanon",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500e7668d9aca824ecd",
+    "image": "./images/item-5.png",
+    "name": "Bridges",
+    "type": "Общественные",
+    "country": "Somalia",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500b2affda1a125c082",
+    "image": "./images/item-9.png",
+    "name": "Booker",
+    "type": "Информационные",
+    "country": "Turkey",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500137658175550080e",
+    "image": "./images/item-9.png",
+    "name": "Turner",
+    "type": "Информационные",
+    "country": "Djibouti",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5008404c49b964e96f9",
+    "image": "./images/item-7.png",
+    "name": "Flores",
+    "type": "Развлекательные",
+    "country": "Niue",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5003717d0713dcbc214",
+    "image": "./images/item-1.png",
+    "name": "Baker",
+    "type": "Информационные",
+    "country": "Philippines",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5005ede300c506c6eb7",
+    "image": "./images/item-3.png",
+    "name": "Moss",
+    "type": "Информационные",
+    "country": "Guadeloupe",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500cddcbbdd9c5d1f3f",
+    "image": "./images/item-6.png",
+    "name": "Wilder",
+    "type": "Информационные",
+    "country": "El Salvador",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5004694331d2d091315",
+    "image": "./images/item-2.png",
+    "name": "Tyson",
+    "type": "Развлекательные",
+    "country": "Liechtenstein",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500f8c807ea2985d0bb",
+    "image": "./images/item-4.png",
+    "name": "Terrell",
+    "type": "Общественные",
+    "country": "Cote D'Ivoire (Ivory Coast)",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500e09f981f55bee417",
+    "image": "./images/item-8.png",
+    "name": "Walls",
+    "type": "Информационные",
+    "country": "Iraq",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5003b88f57d6580a1a9",
+    "image": "./images/item-1.png",
+    "name": "Kirby",
+    "type": "Развлекательные",
+    "country": "Bouvet Island",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5009c3cb9287ae05975",
+    "image": "./images/item-6.png",
+    "name": "Neal",
+    "type": "Общественные",
+    "country": "Mongolia",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500875998fc0bf59abe",
+    "image": "./images/item-8.png",
+    "name": "Francis",
+    "type": "Общественные",
+    "country": "Pakistan",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500df57991add0791f6",
+    "image": "./images/item-7.png",
+    "name": "Thompson",
+    "type": "Общественные",
+    "country": "Cayman Islands",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500dc2fb2139d0c1320",
+    "image": "./images/item-5.png",
+    "name": "Foster",
+    "type": "Общественные",
+    "country": "Cocos (Keeling Islands)",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500678ee60b3ba3a00a",
+    "image": "./images/item-6.png",
+    "name": "Bolton",
+    "type": "Общественные",
+    "country": "Belize",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500d76e390920c950ec",
+    "image": "./images/item-2.png",
+    "name": "Frost",
+    "type": "Развлекательные",
+    "country": "France, Metropolitan",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500c8d47666b8242d57",
+    "image": "./images/item-7.png",
+    "name": "Collier",
+    "type": "Общественные",
+    "country": "Macau",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5007c8b7d6e94d1bb71",
+    "image": "./images/item-1.png",
+    "name": "Palmer",
+    "type": "Развлекательные",
+    "country": "Faroe Islands",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500a2c662785331bbc4",
+    "image": "./images/item-7.png",
+    "name": "Britt",
+    "type": "Информационные",
+    "country": "Saint Vincent and The Grenadines",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500a38bf3c7c1260c67",
+    "image": "./images/item-6.png",
+    "name": "Kelley",
+    "type": "Информационные",
+    "country": "Syria",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500d94efe439b94d985",
+    "image": "./images/item-8.png",
+    "name": "Patton",
+    "type": "Информационные",
+    "country": "Tunisia",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500d8f027f825e29fd4",
+    "image": "./images/item-2.png",
+    "name": "Bryan",
+    "type": "Развлекательные",
+    "country": "Yugoslavia",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5000f524f9e13056735",
+    "image": "./images/item-3.png",
+    "name": "Lindsay",
+    "type": "Информационные",
+    "country": "Croatia (Hrvatska)",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500f2eb089736d9a477",
+    "image": "./images/item-5.png",
+    "name": "Gilmore",
+    "type": "Информационные",
+    "country": "Christmas Island",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500e297f2404192fffa",
+    "image": "./images/item-9.png",
+    "name": "Avery",
+    "type": "Развлекательные",
+    "country": "Jamaica",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5005d22b810e259b696",
+    "image": "./images/item-8.png",
+    "name": "Rollins",
+    "type": "Информационные",
+    "country": "Gibraltar",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500736067b777d63d66",
+    "image": "./images/item-4.png",
+    "name": "Mclaughlin",
+    "type": "Информационные",
+    "country": "Wallis and Futuna Islands",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5001c08846a6b54cede",
+    "image": "./images/item-3.png",
+    "name": "Sandoval",
+    "type": "Общественные",
+    "country": "Sierra Leone",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500195c637a9f8bfae9",
+    "image": "./images/item-2.png",
+    "name": "Watkins",
+    "type": "Развлекательные",
+    "country": "St. Pierre and Miquelon",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5008e0e635e49317029",
+    "image": "./images/item-8.png",
+    "name": "Austin",
+    "type": "Общественные",
+    "country": "Saint Kitts and Nevis",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500ada42b43ee8397a4",
+    "image": "./images/item-6.png",
+    "name": "Nunez",
+    "type": "Развлекательные",
+    "country": "Samoa",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500ce33005503c9a8a1",
+    "image": "./images/item-2.png",
+    "name": "Estes",
+    "type": "Общественные",
+    "country": "Namibia",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500a091f6f7cd44453c",
+    "image": "./images/item-4.png",
+    "name": "Townsend",
+    "type": "Развлекательные",
+    "country": "Antarctica",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500cac7c6ca2fe63a18",
+    "image": "./images/item-8.png",
+    "name": "Wong",
+    "type": "Развлекательные",
+    "country": "Solomon Islands",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5007aeec37e30276cd7",
+    "image": "./images/item-1.png",
+    "name": "Wise",
+    "type": "Информационные",
+    "country": "Chile",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500e3d30b5c84ff04a5",
+    "image": "./images/item-1.png",
+    "name": "Lancaster",
+    "type": "Развлекательные",
+    "country": "Trinidad and Tobago",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5001a2ce3455b07bb0f",
+    "image": "./images/item-4.png",
+    "name": "Tate",
+    "type": "Общественные",
+    "country": "Martinique",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc50017d46f9b337731aa",
+    "image": "./images/item-5.png",
+    "name": "Farmer",
+    "type": "Информационные",
+    "country": "Romania",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5008a9caa09113d041a",
+    "image": "./images/item-3.png",
+    "name": "Marsh",
+    "type": "Информационные",
+    "country": "Belgium",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5003b50c11502cac518",
+    "image": "./images/item-1.png",
+    "name": "Holland",
+    "type": "Общественные",
+    "country": "Belarus",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5007b0b9e572b3828bd",
+    "image": "./images/item-2.png",
+    "name": "Herman",
+    "type": "Информационные",
+    "country": "Uzbekistan",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500f111347a1e4c95b7",
+    "image": "./images/item-2.png",
+    "name": "Bauer",
+    "type": "Общественные",
+    "country": "US Minor Outlying Islands",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5005908f514d6689b91",
+    "image": "./images/item-1.png",
+    "name": "Clark",
+    "type": "Информационные",
+    "country": "Macedonia",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500531c39badc1decc0",
+    "image": "./images/item-7.png",
+    "name": "Lowe",
+    "type": "Развлекательные",
+    "country": "Peru",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500602ec4fc433924c0",
+    "image": "./images/item-4.png",
+    "name": "Hinton",
+    "type": "Общественные",
+    "country": "Ghana",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5001ec906e118803361",
+    "image": "./images/item-3.png",
+    "name": "Nixon",
+    "type": "Развлекательные",
+    "country": "Marshall Islands",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500d26653ec153f4a3d",
+    "image": "./images/item-4.png",
+    "name": "Warren",
+    "type": "Информационные",
+    "country": "Anguilla",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500d2f4d5d18913f922",
+    "image": "./images/item-3.png",
+    "name": "Owens",
+    "type": "Развлекательные",
+    "country": "Estonia",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500d0ab718287955bd5",
+    "image": "./images/item-9.png",
+    "name": "Carver",
+    "type": "Общественные",
+    "country": "Angola",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500abaee669b7c1c5f4",
+    "image": "./images/item-4.png",
+    "name": "Morris",
+    "type": "Развлекательные",
+    "country": "Senegal",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc50033b76882fab75280",
+    "image": "./images/item-7.png",
+    "name": "Harvey",
+    "type": "Общественные",
+    "country": "Iran",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500315388ac1affb8e3",
+    "image": "./images/item-4.png",
+    "name": "Mcdowell",
+    "type": "Информационные",
+    "country": "South Africa",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc50029c0ebbcf2ff296f",
+    "image": "./images/item-9.png",
+    "name": "Lara",
+    "type": "Общественные",
+    "country": "Yemen",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5008ab5d01ccbb6808e",
+    "image": "./images/item-8.png",
+    "name": "Mcdonald",
+    "type": "Информационные",
+    "country": "French Southern Territories",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500a45316b8855df5ed",
+    "image": "./images/item-5.png",
+    "name": "Wilkinson",
+    "type": "Информационные",
+    "country": "Nepal",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc5003bb66eb0fcd6af75",
+    "image": "./images/item-8.png",
+    "name": "West",
+    "type": "Общественные",
+    "country": "Guam",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500fbd37a7c5c67769d",
+    "image": "./images/item-6.png",
+    "name": "Evans",
+    "type": "Общественные",
+    "country": "Monaco",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5008c19a43d3230d83f",
+    "image": "./images/item-4.png",
+    "name": "Black",
+    "type": "Информационные",
+    "country": "Gambia",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500de6510dc8c776dd4",
+    "image": "./images/item-8.png",
+    "name": "Hull",
+    "type": "Развлекательные",
+    "country": "Libya",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500ce313ce49848298c",
+    "image": "./images/item-7.png",
+    "name": "Fuentes",
+    "type": "Общественные",
+    "country": "Bangladesh",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc50039fc3e4c23749edb",
+    "image": "./images/item-2.png",
+    "name": "Macdonald",
+    "type": "Информационные",
+    "country": "East Timor",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5004ef4c734ea010839",
+    "image": "./images/item-6.png",
+    "name": "Huff",
+    "type": "Общественные",
+    "country": "Western Sahara",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500fb6b7ade0614dd91",
+    "image": "./images/item-7.png",
+    "name": "Mcfadden",
+    "type": "Информационные",
+    "country": "Bahrain",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500a6dd1d882057e97d",
+    "image": "./images/item-6.png",
+    "name": "Rush",
+    "type": "Общественные",
+    "country": "Grenada",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500f8a3e315efaa9d42",
+    "image": "./images/item-5.png",
+    "name": "Ford",
+    "type": "Развлекательные",
+    "country": "Sri Lanka",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5008e06756778208be5",
+    "image": "./images/item-7.png",
+    "name": "Wilcox",
+    "type": "Общественные",
+    "country": "Mauritius",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5006798394c733d839f",
+    "image": "./images/item-7.png",
+    "name": "Burt",
+    "type": "Развлекательные",
+    "country": "Singapore",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc50047f54bd1e9cb9126",
+    "image": "./images/item-8.png",
+    "name": "Mcintosh",
+    "type": "Информационные",
+    "country": "Slovenia",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5005dd03659e8a3169e",
+    "image": "./images/item-8.png",
+    "name": "Newton",
+    "type": "Информационные",
+    "country": "Colombia",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500414575f5ffb7a92e",
+    "image": "./images/item-8.png",
+    "name": "Boyd",
+    "type": "Информационные",
+    "country": "Burkina Faso",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500ef7d1f592ebdc87d",
+    "image": "./images/item-9.png",
+    "name": "Cleveland",
+    "type": "Информационные",
+    "country": "Ethiopia",
+    "broadcastType": "Антенна",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500f2ffb576b1c9cc0b",
+    "image": "./images/item-1.png",
+    "name": "Horton",
+    "type": "Общественные",
+    "country": "Nauru",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc50064d41354733f2110",
+    "image": "./images/item-3.png",
+    "name": "Franklin",
+    "type": "Развлекательные",
+    "country": "Cyprus",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5005f5f988a14ba0c19",
+    "image": "./images/item-4.png",
+    "name": "Camacho",
+    "type": "Общественные",
+    "country": "Fiji",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500941d3e5db59c6eaa",
+    "image": "./images/item-2.png",
+    "name": "Phillips",
+    "type": "Общественные",
+    "country": "Australia",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc50047c5ea907c994410",
+    "image": "./images/item-1.png",
+    "name": "Burris",
+    "type": "Общественные",
+    "country": "San Marino",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5006d0ef09cf939c4e2",
+    "image": "./images/item-7.png",
+    "name": "Gross",
+    "type": "Общественные",
+    "country": "Zaire",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc500a0f4be0091cddd5d",
+    "image": "./images/item-8.png",
+    "name": "Ashley",
+    "type": "Общественные",
+    "country": "Laos",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500483ec7c532a4d3f5",
+    "image": "./images/item-6.png",
+    "name": "Hodge",
+    "type": "Общественные",
+    "country": "Bahamas",
+    "broadcastType": "Cпутник",
+    "quality": "HD"
+  },
+  {
+    "id": "5c7bc5008820293d36e634a4",
+    "image": "./images/item-4.png",
+    "name": "Gates",
+    "type": "Информационные",
+    "country": "Viet Nam",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5008155ce1f0a7ca211",
+    "image": "./images/item-1.png",
+    "name": "Montoya",
+    "type": "Информационные",
+    "country": "Uganda",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc50080c3b685387fdb2a",
+    "image": "./images/item-4.png",
+    "name": "Collins",
+    "type": "Развлекательные",
+    "country": "Georgia",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500ad8f5ea36eb3c359",
+    "image": "./images/item-7.png",
+    "name": "Lynch",
+    "type": "Общественные",
+    "country": "Palau",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500f07ed2384944172e",
+    "image": "./images/item-5.png",
+    "name": "Whitaker",
+    "type": "Информационные",
+    "country": "Kyrgyzstan",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500891d29bf2bdb5bc0",
+    "image": "./images/item-4.png",
+    "name": "Bell",
+    "type": "Общественные",
+    "country": "Swaziland",
+    "broadcastType": "Антенна",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500b95dae28b1de3d76",
+    "image": "./images/item-2.png",
+    "name": "Robertson",
+    "type": "Общественные",
+    "country": "Hong Kong",
+    "broadcastType": "Cпутник",
+    "quality": "Среднее"
+  },
+  {
+    "id": "5c7bc500da8f6fc3c19bdd95",
+    "image": "./images/item-1.png",
+    "name": "Dean",
+    "type": "Информационные",
+    "country": "Mali",
+    "broadcastType": "Cпутник",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc500c57424571ca49210",
+    "image": "./images/item-8.png",
+    "name": "Pittman",
+    "type": "Информационные",
+    "country": "Sao Tome and Principe",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  },
+  {
+    "id": "5c7bc5002ee0759bbf5ced6e",
+    "image": "./images/item-2.png",
+    "name": "Mcmillan",
+    "type": "Развлекательные",
+    "country": "New Zealand",
+    "broadcastType": "Антенна",
+    "quality": "Высокое"
+  }
+]
